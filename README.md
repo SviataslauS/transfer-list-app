@@ -9,10 +9,6 @@ A React application that demonstrates a 'Transfer List' component with the abili
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
-- [Installation](#installation)
-- [Development](#development)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
